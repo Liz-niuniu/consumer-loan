@@ -22,12 +22,9 @@ This project performs comprehensive data cleaning and feature engineering on a c
 
 ## 📁 Repository Structure
 consumer-loan-default-prediction/
-├── data/ # (ignored) – sample data or instructions to obtain
+├── data/个人消费贷是否违约.xlsx  – sample data or instructions to obtain
 ├── notebooks/ # Jupyter notebook with the full analysis
 │ └── eda_feature_engineering.ipynb
-├── src/ # Modular Python code (optional, can be extracted)
-│ ├── preprocessing.py
-│ └── feature_engineering.py
 ├── requirements.txt # Python dependencies
 ├── README.md # This file
 ├── LICENSE # MIT License
